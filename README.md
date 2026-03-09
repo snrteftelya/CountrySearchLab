@@ -14,3 +14,5 @@ Language: Java.
 
 [Test plan](https://github.com/snrteftelya/CountrySearchLab/blob/main/Test%20plan.md) <br>
 [Test results](https://github.com/snrteftelya/CountrySearchLab/blob/main/Test%20results.md)
+
+[Architecture](https://github.com/snrteftelya/CountrySearchLab/blob/main/Architecture.md)
